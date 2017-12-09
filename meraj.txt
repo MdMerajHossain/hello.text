@@ -1,0 +1,12 @@
+open new folder
+1.git init
+name.text
+2.git status
+3.git add .(to add name.text)
+
+4.git commit -m "comment"
+you will see an error
+5.git config --global user.email "meraj35-178@diu.edu.bd"
+6.git config --global user.name "MdMerajHossain"
+
+again (git commit -m "comment"
